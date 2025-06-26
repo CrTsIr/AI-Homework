@@ -1,0 +1,32 @@
+{
+    "team_name": null,
+    "leader": {
+      "name": "咸浩哲",
+      "student_id": "2400934030"
+    },
+    "members": [
+      {
+       "name": "咸浩哲",
+      "student_id": "2400934030"
+      },
+      {
+        "name": "叶拉曼",
+        "student_id": "2400094820"
+      },
+      {
+        "name": "杨其融",
+        "student_id": "2400013185"
+      },
+      {
+        "name": "兰艺慧",
+        "student_id": "2400013178"
+      },
+      {
+        "name": "娜迪娅",
+        "student_id": "2400094821"
+      }
+    ],
+    "comments": null,
+    "api_key": "sk-zjpnhilvxvhvgxatewspkfkpdoizziozmsoukapdsgiuiifb"
+  }
+sk-ec7e33b37a494104a4ccfd22409b1a4d
