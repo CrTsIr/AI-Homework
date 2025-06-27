@@ -21,7 +21,7 @@ model = ModelFactory.create(
     api_key=os.getenv('SILICONFLOW_API_KEY'),
     model_config_dict={
         # 核心参数
-        "temperature": 0.9,        # 控制随机性 (0-1)
+        "temperature": 0.1,        # 控制随机性 (0-1)
         "max_tokens": 16384,         # 最大生成长度
     }
 )
